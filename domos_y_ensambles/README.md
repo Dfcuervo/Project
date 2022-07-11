@@ -1,3 +1,3 @@
 # Domos y Ensambles
 
-- Proyecto web en php, JavaScript base de datos MySQL.
+- Proyecto web en php, JavaScript y base de datos MySQL.
